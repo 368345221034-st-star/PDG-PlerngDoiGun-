@@ -1,0 +1,26 @@
+{
+  "selected_features": [
+    "lead_time",
+    "arrival_date_day_of_month",
+    "total_of_special_requests",
+    "deposit_type_Non Refund",
+    "customer_type_Group",
+    "market_segment_Corporate",
+    "market_segment_Online TA",
+    "arrival_date_month_December",
+    "arrival_date_month_July",
+    "arrival_date_month_May",
+    "distribution_channel_GDS",
+    "reserved_room_type_D",
+    "assigned_room_type_B",
+    "assigned_room_type_D",
+    "assigned_room_type_F",
+    "assigned_room_type_H"
+  ],
+  "n_selected": 16,
+  "n_total": 72,
+  "baseline_acc": 0.6916,
+  "ga_acc": 0.7722,
+  "generations": 25,
+  "pop_size": 20
+}
